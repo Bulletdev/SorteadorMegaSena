@@ -100,7 +100,7 @@ Frequência de aparição de cada número nas combinações geradas
 [Especifique a licença do seu projeto, por exemplo: MIT License]
 
 ## 🏆 Créditos
-Desenvolvido como um projeto de estudo sobre geração de números e interface gráfica em Python.
+Desenvolvido como um projeto de estudo sobre geração de números e interface gráfica em Python
 
 ##
-Lembre-se: A sorte é imprevisível. Apostas devem ser feitas com moderação e responsabilidade! 🍀
+Lembre-se: A sorte é imprevisível. Apostas devem ser feitas com moderação e responsabilidade! 🍀 
