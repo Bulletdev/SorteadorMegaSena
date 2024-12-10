@@ -6,3 +6,4 @@
 # - random (geração de números)
 # - typing (anotações de tipo)
 # - collections (Counter)g
+# - Thanks
