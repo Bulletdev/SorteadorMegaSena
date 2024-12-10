@@ -13,20 +13,20 @@
 #       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 #       ⠀⠀⠀⣿⣙⡆⠀⠀⡇⠀⢸⠀⠀⢸⠀⠀ ⢸⡇⠀⠀⢸⣏⡉  ⠙⡏⠁⠀ 
 #       ⠀⠀⠀⣿⣉⡷⠀⠀⢧⣀⣼ ⠀⢸⣀  ⢸⣇⡀ ⢸⣏⣁⠀ ⠀⡇⠀ 
-```
+
 from setuptools import setup, find_packages # type: ignore
 
 setup(
     name='SorteadorMegaSena',
-    version='0.1.0',
+    version='2.0',
     description='Gerador de números para Mega-Sena com análise estatística',
     author='Michael Bullet',
-    author_email='seu.email@example.com',
+    author_email='contato@michaelbullet.com',
     packages=find_packages(),
     install_requires=[],
     entry_points={
         'console_scripts': [
-            'mega-sena-generator=mega_sena.app:main',
+            'SorteadorMegaSena=SorteadorMegaSena.app:main',
         ],
     },
     classifiers=[
