@@ -40,13 +40,19 @@ python -m venv venv
 source venv/bin/activate  # No Windows use: venv\Scripts\activate
 ```
 
+Instale as dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
 Não são necessárias instalações adicionais, pois o projeto usa apenas bibliotecas padrão do Python
 
 ## 💻 Como Usar
 Execute o script principal:
 
 ```bash 
-python gerador_mega_sena.py
+python - m mega_sena.app
 ```
 
 Utilizando a Interface
