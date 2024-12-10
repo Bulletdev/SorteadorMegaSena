@@ -5,6 +5,9 @@
   <img alt="screenshot" src="mega-da-virada.jpg">
 </p>
 
+// caso deseje apenas testar pode executar o da pasta 1.0, 
+// reorganizei em mais de um bloco de código pra deixar clean mesmo)
+
 </div>
 
 
@@ -57,8 +60,7 @@ Não são necessárias instalações adicionais, pois o projeto usa apenas bibli
 
 ## 💻 Como Usar
 
-// caso deseje apenas testar pode executar o da pasta 1.0, 
-// reorganizei em mais de um bloco de código pra deixar clean mesmo)
+
 
 Execute o script principal:
 
