@@ -1,5 +1,12 @@
 # 🎲 Gerador de Números da Mega-Sena
 
+<div>
+<p align="center"> 
+  <img alt="screenshot" src="mega-da-virada.jpg">
+</p>
+
+</div>
+
 
 ## 📝 Descrição do Projeto
 
@@ -40,24 +47,44 @@ python -m venv venv
 source venv/bin/activate  # No Windows use: venv\Scripts\activate
 ```
 
+Instale as dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
 Não são necessárias instalações adicionais, pois o projeto usa apenas bibliotecas padrão do Python
 
 ## 💻 Como Usar
+
+// caso deseje apenas testar pode executar o da pasta 1.0, 
+// reorganizei em mais de um bloco de código pra deixar clean mesmo)
+
 Execute o script principal:
 
+
 ```bash 
-python gerador_mega_sena.py
+<<<<<<< HEAD
+python SorteadorMega.py
+=======
+python - m mega_sena.app
+>>>>>>> 28cdb7a1af9afd33dc956aa7a579b72b1bcb7a06
 ```
+<div>
 
 Utilizando a Interface
 
-Escolha o método de geração de números:
+> Escolha o método de geração de números:
 
-Números Mais Frequentes: Baseado em números historicamente mais sorteados
+> Números Mais Frequentes: Baseado em números historicamente mais sorteados
+
 > Números Menos Frequentes: Baseado em números historicamente menos sorteados
-> Método Misto: Combinação de números frequentes e menos frequentes
-Aleatório: Geração completamente aleatória
 
+> Método Misto: Combinação de números frequentes e menos frequentes
+
+> Aleatório: Geração completamente aleatória
+
+</div> 
 
 >Selecione o número de combinações desejadas (1-10)
 Clique em "Gerar Combinações"
@@ -65,13 +92,16 @@ Clique em "Gerar Combinações"
 
 ## 🎯 Métodos de Geração
 
-Números Mais Frequentes
+- Números Mais Frequentes
 Gera combinações utilizando números que historicamente aparecem com mais frequência nos sorteios da Mega-Sena.
-Números Menos Frequentes
+
+- Números Menos Frequentes
 Gera combinações utilizando números que historicamente aparecem com menos frequência nos sorteios da Mega-Sena.
-Método Misto
+
+- Método Misto
 Combina números mais e menos frequentes para criar combinações únicas.
-Geração Aleatória
+
+- Geração Aleatória
 Gera combinações completamente aleatórias dentro do intervalo de números da Mega-Sena.
 
 ## ⚠️ Aviso Legal
@@ -97,7 +127,7 @@ Número de combinações únicas
 Frequência de aparição de cada número nas combinações geradas
 
 ## 📜 Licença
-[Especifique a licença do seu projeto, por exemplo: MIT License]
+MIT License
 
 ## 🏆 Créditos
 Desenvolvido como um projeto de estudo sobre geração de números e interface gráfica em Python

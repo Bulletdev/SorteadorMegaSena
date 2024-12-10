@@ -1,0 +1,8 @@
+# Dependências do Projeto Gerador de Números da Mega-Sena
+
+# Sem dependências externas além das bibliotecas padrão do Python
+# Este projeto usa apenas bibliotecas padrão do Python: 
+# - tkinter (GUI)
+# - random (geração de números)
+# - typing (anotações de tipo)
+# - collections (Counter)g
