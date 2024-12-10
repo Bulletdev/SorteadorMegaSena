@@ -47,6 +47,12 @@ python -m venv venv
 source venv/bin/activate  # No Windows use: venv\Scripts\activate
 ```
 
+Instale as dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
 Não são necessárias instalações adicionais, pois o projeto usa apenas bibliotecas padrão do Python
 
 ## 💻 Como Usar
@@ -58,7 +64,11 @@ Execute o script principal:
 
 
 ```bash 
+<<<<<<< HEAD
 python SorteadorMega.py
+=======
+python - m mega_sena.app
+>>>>>>> 28cdb7a1af9afd33dc956aa7a579b72b1bcb7a06
 ```
 <div>
 
