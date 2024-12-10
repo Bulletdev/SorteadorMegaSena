@@ -6,5 +6,3 @@ This package provides tools for generating and analyzing
 Mega-Sena lottery number combinations.
 """
 
-from .GerarNumeros import SorteadorMegaSena
-from .SorteadorMega import MegaSenaGeneratorApp

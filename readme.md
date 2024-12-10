@@ -50,10 +50,10 @@ python -m venv venv
 source venv/bin/activate  # No Windows use: venv\Scripts\activate
 ```
 
-Instale as dependencias:
+Execute o APP:
 
 ```bash
-pip install -r requirements.txt
+python ShorteadorNega.py
 ```
 
 Não são necessárias instalações adicionais, pois o projeto usa apenas bibliotecas padrão do Python
