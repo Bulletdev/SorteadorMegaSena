@@ -66,7 +66,7 @@ source venv/bin/activate  # No Windows use: venv\Scripts\activate
 Execute o APP:
 
 ```bash
-python ShorteadorNega.py
+python SorteadorMega.py
 ```
 
 Não são necessárias instalações adicionais, pois o projeto usa apenas bibliotecas padrão do Python
