@@ -116,10 +116,15 @@ Jogue com responsabilidade
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
-
+<div>
+  
 Reportar bugs
+  
 Sugerir melhorias
+
 Enviar pull requests
+
+</div>  
 
 ## 📊 Análise Estatística
 O gerador inclui uma função de análise que mostra:
