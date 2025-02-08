@@ -7,7 +7,7 @@
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/bulletdev/SorteadorMegaSena?color=04D361&labelColor=000000">
-  
+   
   <a href="https://github.com/Bulletdev/ShortMe/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Bulletdev/SorteadorMegaSena?color=04D361&labelColor=000000">
   </a>
