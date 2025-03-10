@@ -24,6 +24,7 @@ class SorteadorMegaSena:
         """
         if historical_results is None:
             historical_results = [
+            [01, 17, 19, 29, 50, 57],  # 2024
             [21, 24, 33, 41, 45, 56],  # 2023
             [4, 5, 10, 34, 58, 59],    # 2022
             [12, 15, 23, 32, 33, 46],  # 2021
