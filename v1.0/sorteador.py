@@ -6,8 +6,9 @@ from collections import Counter
 
 class MegaSenaNumberGenerator:
     def __init__(self):
-        # Números dos sorteios de fim de ano (31/12) de 2009 a 2023
+        # Números dos sorteios de fim de ano (31/12) de 2009 a 2024
         self.historical_results = [
+            [01, 17, 19, 29, 50, 57],  # 2024
             [21, 24, 33, 41, 45, 56],  # 2023
             [4, 5, 10, 34, 58, 59],    # 2022
             [12, 15, 23, 32, 33, 46],  # 2021
@@ -23,7 +24,7 @@ class MegaSenaNumberGenerator:
             [3, 4, 29, 36, 45, 55],    # 2011
             [2, 10, 34, 37, 43, 50],   # 2010
             [10, 27, 40, 46, 49, 58]   # 2009
-        ]
+            ]
         
         all_numbers_flat = [num for results in self.historical_results for num in results]
         
